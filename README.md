@@ -3,7 +3,7 @@ Station monitor for the Jena/Germany local transport (JNV) bus and tram. The mon
 
 This module is an extension of the [MagicMirror²](https://github.com/MichMich/MagicMirror) project by [MichMich](https://github.com/MichMich/).
 
-The CSS I took from [MMM-DVB](https://github.com/skastenholz/MMM-DVB) module by [skastenholz](https://github.com/skastenholz), was the easy way to get a good design of the table.
+The CSS I took from [MMM-DVB](https://github.com/skastenholz/MMM-DVB) module by [skastenholz](https://github.com/skastenholz), was the easy way to got a good design of the table.
 
 ToDo: Picture
 
