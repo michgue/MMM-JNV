@@ -1,5 +1,5 @@
 # MMM-JNV
-Station monitor for the Jena/Germany local transport (JNV) bus and tram. The monitor will show the departures for the next 60 minutes.
+Station monitor for the Jena/Germany local transport (JNV) bus and tram system. The monitor will show the departures for the next 60 minutes.
 
 This module is an extension of the [MagicMirror²](https://github.com/MichMich/MagicMirror) project by [MichMich](https://github.com/MichMich/).
 
