@@ -44,7 +44,7 @@ The following properties can be configured:
 | Option                       | Description
 | ---------------------------- | -----------
 | `stopName`                   | The stop name you can find at https://www.nahverkehr-jena.de. when you use the station monitor. 
-| `timeOffset`                 | The time you will need to reach the stop.
+| `timeOffset`                 | The time you will need to reach the stop in minutes. **Default value:** '0'
 | `resultNum`                  | The number of displayed results. **Default value:** '5'
 | `lines []`                   | Select the displayed lines. **Default value:** []
 | `updateIntervall`            | Update intervall **Default value:** `60000` (1 minute)
