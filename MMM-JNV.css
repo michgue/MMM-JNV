@@ -1,0 +1,45 @@
+/*
+ *
+ * MMM-JNV
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+.MMM-JNV .table {
+    border-collapse: separate;
+    border-spacing: 0 0;
+    text-align: left;
+}
+
+.MMM-JNV .spacerRow {
+    padding-bottom: 5px;
+}
+
+.MMM-JNV .destination {
+    color: white;
+    font-weight: normal;
+}
+
+.MMM-JNV .line {
+    border-collapse: separate;
+    border-spacing: 10px 0;
+    color: white;
+    font-weight: normal;
+    text-align: left;
+    width: 50px;
+}
+
+.MMM-JNV .departure {
+    color: white;
+    font-weight: normal;
+    padding-left: 10px;
+    text-align: right;
+}
+
+.MMM-JNV .noTramRow {
+    color: white;
+    font-weight: normal;
+}
