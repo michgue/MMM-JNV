@@ -3,9 +3,9 @@ Station monitor for the Jena/Germany local transport (JNV) bus and tram.
 
 The station name you can find at https://www.nahverkehr-jena.de. when you use the station monitor. 
 
-Add this section to your confi.js.
+Add this section to your config.js.
 
-{
+<{
         module: "MMM-JNV",
 	position: "top_left", 
 	config: {
@@ -18,6 +18,6 @@ Add this section to your confi.js.
 			"4"], // what lines should be displayed
 		updateInterval: 60000	// every minute
 	}
-},
+},>
 
 
