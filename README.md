@@ -19,3 +19,5 @@ Add this section to your confi.js.
 		updateInterval: 60000	// every minute
 	}
 },
+
+
